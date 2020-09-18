@@ -1,0 +1,32 @@
+{
+  "name": "is-number-divisible-by-other-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "taylor.fish",
+    "email": "contact@taylor.fish",
+    "url": "https://taylor.fish"
+  },
+  "license": "AGPL-3.0+",
+  "homepage": "https://github.com/taylordotfish/is-number-divisible-by-other-number",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/taylordotfish/is-number-divisible-by-other-number.git"
+  },
+  "dependencies": {
+    "change-case": "^4.1.1",
+    "falsy": "0.0.2",
+    "is-equal-to": "^1.1.2",
+    "modulus-operator": "^1.0.0",
+    "number-zero": "^1.0.3",
+    "numerizer": "0.0.4",
+    "verbal-expressions": "^1.0.2"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
