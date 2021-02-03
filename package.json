@@ -1,7 +1,7 @@
 {
   "name": "is-number-divisible-by-other-number",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Check if a number is divisible by another number",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -14,11 +14,11 @@
   "license": "AGPL-3.0+",
   "homepage": "https://github.com/taylordotfish/is-number-divisible-by-other-number",
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/taylordotfish/is-number-divisible-by-other-number.git"
+    "type": "git",
+    "url": "git+https://github.com/taylordotfish/is-number-divisible-by-other-number.git"
   },
   "dependencies": {
-    "change-case": "^4.1.1",
+    "change-case": "^4.1.2",
     "falsy": "0.0.2",
     "is-equal-to": "^1.1.2",
     "modulus-operator": "^1.0.0",
@@ -27,6 +27,6 @@
     "verbal-expressions": "^1.0.2"
   },
   "devDependencies": {
-    "jest": "^26.4.2"
+    "jest": "^26.6.3"
   }
 }
